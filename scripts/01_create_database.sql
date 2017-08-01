@@ -1,8 +1,8 @@
--- Database: db_card_payments
+-- Database: db_transfers
 
--- DROP DATABASE db_card_payments;
+-- DROP DATABASE db_transfers;
 
-CREATE DATABASE db_card_payments
+CREATE DATABASE db_transfers
     WITH 
     OWNER = postgres
     ENCODING = 'UTF8'
